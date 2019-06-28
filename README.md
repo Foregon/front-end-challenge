@@ -25,8 +25,7 @@ Nome do cartão | name
 Imagem do cartão | imageUrl
 Anuidade | firstAnnuity.textFormatted
 Renda mímina | valueOfMinimalIncomeRequired
-Avaliações | rating.total_reviews
-Avaliações | rating.average_score
+Avaliações | rating
 
   * As informações acima devem ser construidas à partir da consulta na API: 
    http://www.mocky.io/v2/5d164fc10e00001730a118b8
