@@ -1,15 +1,25 @@
-Forefon Front End Developer
+Foregon Front End Developer
 ============================
 
-Foregon
+Sobre a Foregon
 -----
 
-Proposta
+Orientações
 -----
+* Faça um fork do projeto;
+* Crie uma branch (pode ser com seu nome mesmo);
+
+Depois do seu setup você precisará seguir as seguintes instruções, para construir a aplicação:
+
+1. Desenvolver a página nas versões *mobile* e *desktop*, que tem seu layout em *zeppliin*;
+2. Crie um módulo JavaScript para construir as integrações com a API REST;
+  * As informações [*Anuidade*, *Renda mímina*, *Aplicativo*, *Milhas aéreas*, *Avaliações*] devem ser construidas à partir da consulta na API;
+4. Crie um REDEME para documentaçaõ do projeto;
+3. **Não submeta o Pull Request**, envie um link do seu repositório para processos.foregon@foregon.com
 
 Critérios de avaliação
 -----
-* HTML sêmantico;
+* Semântica Web;
 * CSS;
 * JS;
 * Fidelidade ao layout;
@@ -20,14 +30,8 @@ Critérios de avaliação
 Bônus
 -----
 * ES6/7/8;
-* Documentação
+* Testes e documentação
 * Código modular;
+* Performance;
 * Aplicação de médotologias css, preferencialmente BEM CSS;
 * Aplicação de ferramentas, sejam elas transpiladores, pré-processadores, task-runners, bundles, etc.
-
-
-Entregando o teste
--------
-
-Observações
--------
