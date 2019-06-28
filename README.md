@@ -13,11 +13,11 @@ Orientações
 Depois do seu setup você precisará seguir as seguintes instruções, para construir a aplicação:
 
 1. **NÃO USAR JQUERY**
-2. Desenvolver a página nas versões *mobile* e *desktop*, que tem seu layout em https://zpl.io/bL56P8Q;
+2. Desenvolver a página nas versões **MOBILE** e **DESKTOP**, que tem seu layout em https://zpl.io/bL56P8Q;
 
   * Solicite invite para o projeto
 
-3. Crie um módulo JavaScript para construir as integrações com a API REST;
+3. Crie um módulo JavaScript para construir as integrações com a API;
   
 Propriedade | Propriedade na API 
 --- | ---
@@ -43,12 +43,12 @@ Critérios de avaliação
 * Fidelidade ao layout;
 * Acessibilidade;
 * Design Responsivo;
-* Integração API REST;
+* Integração com API;
 
 Bônus
 -----
 * ES6/7/8;
-* Testes e documentação
+* Testes e documentação;
 * Código modular;
 * Performance;
 * Aplicação de médotologias css, preferencialmente BEM CSS;
