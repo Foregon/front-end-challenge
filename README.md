@@ -17,7 +17,7 @@ Depois do seu setup você precisará seguir as seguintes instruções, para cons
 1. Desenvolver a página nas versões *mobile* e *desktop*, que tem seu layout em *zeppliin*;
 2. Crie um módulo JavaScript para construir as integrações com a API REST;
   * As informações [*Anuidade*, *Renda mímina*, *Aplicativo*, *Milhas aéreas*, *Avaliações*] devem ser construidas à partir da consulta na API;
-4. Crie um REDEME para documentaçaõ do projeto;
+4. Crie um README para documentaçaõ do projeto;
 3. **Não submeta o Pull Request**, envie um link do seu repositório para processos.foregon@foregon.com
 
 Critérios de avaliação
