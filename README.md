@@ -23,7 +23,7 @@ Depois do seu setup você precisará seguir as seguintes instruções, para cons
   * As informações *Nome do cartão*, *Imagem do cartão*, *Anuidade*,*Renda mímina*, *Aplicativo*,*Milhas aéreas*, *Avaliações*   devem ser construidas à partir da consulta na API: https://www.foregon.com/api/v3/groups/productid/1623
   
 4. Crie um README para documentação do projeto;
-3. **Não submeta o Pull Request**, envie um link do seu repositório para processos.foregon@foregon.com
+3. **Não submeta o Pull Request**, envie um link do seu repositório para murilo.siqueira@foregon.com
 
 Critérios de avaliação
 -----
