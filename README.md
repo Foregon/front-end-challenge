@@ -15,6 +15,8 @@ Orientações
 Depois do seu setup você precisará seguir as seguintes instruções, para construir a aplicação:
 
 1. Desenvolver a página nas versões *mobile* e *desktop*, que tem seu layout em https://zpl.io/bL56P8Q;
+  * Solicite invite para o projeto
+
 2. Crie um módulo JavaScript para construir as integrações com a API REST;
   * As informações [
     *Nome do cartão*, 
