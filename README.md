@@ -24,7 +24,7 @@ Propriedade | Propriedade na API
 Nome do cartão | name
 Imagem do cartão | imageUrl
 Anuidade | firstAnnuity.textFormatted
-Renda mímina | valueOfMinimalIncomeRequired
+Renda mínima | valueOfMinimalIncomeRequired
 Avaliações | rating
 
   * As informações acima devem ser construidas à partir da consulta na API: 
