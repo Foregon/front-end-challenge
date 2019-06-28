@@ -16,11 +16,11 @@ Depois do seu setup você precisará seguir as seguintes instruções, para cons
 
 1. Desenvolver a página nas versões *mobile* e *desktop*, que tem seu layout em https://zpl.io/bL56P8Q;
 
-  *Solicite invite para o projeto*
+  * Solicite invite para o projeto
 
 2. Crie um módulo JavaScript para construir as integrações com a API REST;
   
-  As informações *Nome do cartão*, *Imagem do cartão*, *Anuidade*,*Renda mímina*, *Aplicativo*,*Milhas aéreas*, *Avaliações*   devem ser construidas à partir da consulta na API: https://www.foregon.com/api/v3/groups/productid/1623
+  * As informações *Nome do cartão*, *Imagem do cartão*, *Anuidade*,*Renda mímina*, *Aplicativo*,*Milhas aéreas*, *Avaliações*   devem ser construidas à partir da consulta na API: https://www.foregon.com/api/v3/groups/productid/1623
   
 4. Crie um README para documentação do projeto;
 3. **Não submeta o Pull Request**, envie um link do seu repositório para processos.foregon@foregon.com
