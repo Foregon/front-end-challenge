@@ -12,11 +12,12 @@ Orientações
 
 Depois do seu setup você precisará seguir as seguintes instruções, para construir a aplicação:
 
-1. Desenvolver a página nas versões *mobile* e *desktop*, que tem seu layout em https://zpl.io/bL56P8Q;
+1. **NÃO USAR JQUERY**
+2. Desenvolver a página nas versões *mobile* e *desktop*, que tem seu layout em https://zpl.io/bL56P8Q;
 
   * Solicite invite para o projeto
 
-2. Crie um módulo JavaScript para construir as integrações com a API REST;
+3. Crie um módulo JavaScript para construir as integrações com a API REST;
   
 Propriedade | Propriedade na API 
 --- | ---
@@ -27,10 +28,12 @@ Renda mímina | valueOfMinimalIncomeRequired
 Avaliações | rating.total_reviews
 Avaliações | rating.average_score
 
-  * As informações acima devem ser construidas à partir da consulta na API: https://www.foregon.com/api/v3/groups/productid/1623
+  * As informações acima devem ser construidas à partir da consulta na API: 
+   http://www.mocky.io/v2/5d164fc10e00001730a118b8
   
-4. Crie um README para documentação do projeto;
-3. **Não submeta o Pull Request**, envie um link do seu repositório para murilo.siqueira@foregon.com
+4 Crie um README para documentação do projeto;
+5 **Não submeta o Pull Request**, envie um link do seu repositório para murilo.siqueira@foregon.com
+
 
 Critérios de avaliação
 -----
