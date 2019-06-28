@@ -30,8 +30,8 @@ Avaliações | rating
   * As informações acima devem ser construidas à partir da consulta na API: 
    http://www.mocky.io/v2/5d164fc10e00001730a118b8
   
-4 Crie um README para documentação do projeto;
-5 **Não submeta o Pull Request**, envie um link do seu repositório para murilo.siqueira@foregon.com
+4. Crie um README para documentação do projeto;
+5. **Não submeta o Pull Request**, envie um link do seu repositório para murilo.siqueira@foregon.com
 
 
 Critérios de avaliação
