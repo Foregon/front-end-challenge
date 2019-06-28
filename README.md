@@ -3,10 +3,13 @@ Foregon Front End Developer
 
 Sobre a Foregon
 -----
+Somos um grupo de pessoas inquietas, apaixonadas por inovação, marketing e pelo mundo digital. Nós acreditamos que as coisas sempre podem ser feitas de um jeito mais inteligente, criativo e disruptivo. Já somos o maior marketplace de produtos financeiros do Brasil e ainda queremos crescer muito mais.
+
+Se você acha que pode fazer a diferença em um mundo 100% digital, venha fazer parte do nosso time.
 
 Orientações
 -----
-* Faça um fork do projeto;
+* Faça um fork desse projeto para a sua conta pessoal do GitHub, ou BitBucket;
 * Crie uma branch (pode ser com seu nome mesmo);
 
 Depois do seu setup você precisará seguir as seguintes instruções, para construir a aplicação:
