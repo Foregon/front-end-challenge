@@ -28,7 +28,7 @@ Renda mínima | valueOfMinimalIncomeRequired
 Avaliações | rating
 
   * As informações acima devem ser construidas à partir da consulta na API: 
-   http://www.mocky.io/v2/5d164fc10e00001730a118b8
+   https://run.mocky.io/v3/64c93785-4849-4730-a9cb-d04d6bc38408
   
 4. Crie um README para documentação do projeto;
 5. **Não submeta o Pull Request**, envie um link do seu repositório para murilo.siqueira@foregon.com
