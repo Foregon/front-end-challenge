@@ -13,7 +13,7 @@ Orientações
 Depois do seu setup você precisará seguir as seguintes instruções, para construir a aplicação:
 
 1. **NÃO USAR JQUERY**
-2. Desenvolver a página nas versões **MOBILE** e **DESKTOP**, que tem seu layout em https://zpl.io/bL56P8Q;
+2. Desenvolver a página nas versões **MOBILE** e **DESKTOP**, que tem seu layout em https://zpl.io/2yK0eNq;
 
   * Solicite invite para o projeto
 
