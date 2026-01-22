@@ -1,9 +1,5 @@
-Foregon Front End Developer
+Davi — A nossa força é proteger
 ============================
-
-###### Se você acha que pode fazer a diferença em um mundo 100% digital, venha fazer parte do nosso time.
-
-###### Somos um grupo de pessoas inquietas, apaixonadas por inovação, marketing e pelo mundo digital. Nós acreditamos que as coisas sempre podem ser feitas de um jeito mais inteligente, criativo e disruptivo. Já somos o maior marketplace de produtos financeiros do Brasil e ainda queremos crescer muito mais.
 
 Orientações
 -----
@@ -12,7 +8,6 @@ Orientações
 
 Depois do seu setup você precisará seguir as seguintes instruções, para construir a aplicação:
 
-1. **NÃO USAR JQUERY**
 2. Desenvolver a página nas versões **MOBILE** e **DESKTOP**, que tem seu layout em https://zpl.io/2yK0eNq;
 
   * Solicite invite para o projeto
@@ -37,18 +32,8 @@ Avaliações | rating
 Critérios de avaliação
 -----
 * Semântica Web;
-* CSS;
-* JS;
+* Modularização do código;
 * Fidelidade ao layout;
 * Acessibilidade;
 * Design Responsivo;
-* Integração com API;
 
-Bônus
------
-* ES6/7/8;
-* Testes e documentação;
-* Código modular;
-* Performance;
-* Aplicação de médotologias css, preferencialmente BEM CSS;
-* Aplicação de ferramentas, sejam elas transpiladores, pré-processadores, task-runners, bundles, etc.
