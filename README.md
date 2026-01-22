@@ -24,7 +24,7 @@ A página deve consumir dados de uma **API pública**, sendo responsável por ex
 
 **Endpoint da API**
 
-[Mocky.io](https://6972720332c6bacb12c6edc5.mockapi.io/creditcards)
+- [Mocky.io](https://6972720332c6bacb12c6edc5.mockapi.io/creditcards)
 
 
 **Mapeamento de dados**
