@@ -1,39 +1,68 @@
-Davi — A nossa força é proteger
-============================
+# Davi — A nossa força é proteger
 
-Orientações
------
-* Faça um fork desse projeto para a sua conta pessoal do GitHub, ou BitBucket;
-* Crie uma branch (pode ser com seu nome mesmo);
+Este teste prático tem como objetivo avaliar sua capacidade de atuar como **Front-end Developer** em um produto digital real, considerando qualidade de código, clareza de implementação e fidelidade à experiência proposta.
 
-Depois do seu setup você precisará seguir as seguintes instruções, para construir a aplicação:
+---
 
-2. Desenvolver a página nas versões **MOBILE** e **DESKTOP**, que tem seu layout em https://zpl.io/2yK0eNq;
+## Orientações iniciais
+- Faça um **fork** deste projeto para sua conta pessoal no **GitHub** ou **Bitbucket**
+- Crie uma **branch com seu nome**
 
-  * Solicite invite para o projeto
+Após o setup inicial, siga as instruções abaixo para construir a aplicação.
 
-3. Crie um módulo JavaScript para construir as integrações com a API;
-  
-Propriedade | Propriedade na API 
---- | ---
-Nome do cartão | name
-Imagem do cartão | imageUrl
-Anuidade | firstAnnuity.textFormatted
-Renda mínima | valueOfMinimalIncomeRequired
-Avaliações | rating
+---
+## Desafio
+### 1. Interface
 
-  * As informações acima devem ser construidas à partir da consulta na API: 
-   https://run.mocky.io/v3/64c93785-4849-4730-a9cb-d04d6bc38408
-  
-4. Crie um README para documentação do projeto;
-5. **Não submeta o Pull Request**, envie um link do seu repositório para murilo.siqueira@foregon.com
+- Desenvolver a página nas versões **Mobile** e **Desktop**
+- O layout de referência está disponível em:  
+  https://zpl.io/2yK0eNq  
+- Caso necessário, solicite **invite de acesso** ao projeto de layout
+---
+### 2. Integração com API
+A página deve consumir dados de uma **API pública**, sendo responsável por exibir corretamente as informações na interface.
+
+**Endpoint da API**
+[https://run.mocky.io/v3/64c93785-4849-4730-a9cb-d04d6bc38408](https://6972720332c6bacb12c6edc5.mockapi.io/creditcards/01)
 
 
-Critérios de avaliação
------
-* Semântica Web;
-* Modularização do código;
-* Fidelidade ao layout;
-* Acessibilidade;
-* Design Responsivo;
+**Mapeamento de dados**
+
+| Informação exibida | Propriedade na API |
+|--------------------|-------------------|
+| Nome do cartão     | `name` |
+| Imagem do cartão   | `imageUrl` |
+| Anuidade           | `firstAnnuity.textFormatted` |
+| Renda mínima       | `valueOfMinimalIncomeRequired.textFormatted` |
+| Avaliações         | `rating` |
+
+---
+
+### 3. Documentação
+Crie um **README.md** contendo, no mínimo:
+
+- Descrição do projeto
+- Como rodar localmente
+- Decisões técnicas tomadas
+- Estrutura do código
+- Possíveis melhorias ou próximos passos
+---
+
+### 4. Entrega
+- **Não submeta Pull Request**
+- Envie o **link do repositório** para:  
+  **murilo.siqueira@davi.com.com.br**
+
+Certifique-se de que o repositório esteja público ou com acesso liberado.
+---
+
+## Critérios de avaliação
+
+- **HTML semântico**
+- **Estrutura e modularização do código**
+- **Fidelidade ao layout proposto**
+- **Acessibilidade**
+- **Design responsivo**
+- **Integração correta com a API**
+- **Clareza, legibilidade e organização do código**
 
