@@ -23,7 +23,7 @@ Após o setup inicial, siga as instruções abaixo para construir a aplicação.
 A página deve consumir dados de uma **API pública**, sendo responsável por exibir corretamente as informações na interface.
 
 **Endpoint da API**
-[https://run.mocky.io/v3/64c93785-4849-4730-a9cb-d04d6bc38408](https://6972720332c6bacb12c6edc5.mockapi.io/creditcards/01)
+[Mocky.io](https://6972720332c6bacb12c6edc5.mockapi.io/creditcards))
 
 
 **Mapeamento de dados**
