@@ -52,7 +52,7 @@ Crie um **README.md** contendo, no mínimo:
 ### 4. Entrega
 - **Não submeta Pull Request**
 - Envie o **link do repositório** para:  
-  **murilo.siqueira@davi.com.com.br**
+  **murilo.siqueira@davi.com.br**
 
 Certifique-se de que o repositório esteja público ou com acesso liberado.
 ---
